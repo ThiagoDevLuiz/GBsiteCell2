@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7f5ba365.css",
+    "main.js": "./static/js/main.7eabc336.js",
+    "static/js/787.11a2ccd2.chunk.js": "./static/js/787.11a2ccd2.chunk.js",
+    "static/media/MYRIADPRO-BOLD.woff": "./static/media/MYRIADPRO-BOLD.1c6432261fa438517e63.woff",
+    "static/media/MYRIADPRO-SEMIBOLD.woff": "./static/media/MYRIADPRO-SEMIBOLD.230dfc3b5ac4fb7a87a3.woff",
+    "static/media/MYRIADPRO-REGULAR.woff": "./static/media/MYRIADPRO-REGULAR.d30b05461519da431d12.woff",
+    "index.html": "./index.html",
+    "main.7f5ba365.css.map": "./static/css/main.7f5ba365.css.map",
+    "main.7eabc336.js.map": "./static/js/main.7eabc336.js.map",
+    "787.11a2ccd2.chunk.js.map": "./static/js/787.11a2ccd2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f5ba365.css",
+    "static/js/main.7eabc336.js"
+  ]
+}
